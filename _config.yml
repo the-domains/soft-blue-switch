@@ -1,0 +1,14 @@
+layout_spectrum: 0.651074051624164
+typography_spectrum: 0.9159646476618946
+color:
+  brandStrength: 0.8403706476092339
+  lightness: 0.9887405671179295
+  saturation: 0.19561750954017043
+  rhythmicContrast: 0.9836012034211308
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+name: Soft Blue Switch
