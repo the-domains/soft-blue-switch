@@ -1,20 +1,4 @@
-name: Soft Blue Switch
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1dfd5e6-8cd5-499b-ae3a-acfa1e4115e9.ico
-layout_spectrum: 0.24854
 typography_spectrum: 0.9159646476618946
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,24 @@ color:
   lightness: 0.9887405671179295
   saturation: 0.19561750954017043
   rhythmicContrast: 0.9836012034211308
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24854
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Soft Blue Switch
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: WORK
+    url: 'https://goo.gl/photos/FA8Kc7BkbAmgUWxN7'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1dfd5e6-8cd5-499b-ae3a-acfa1e4115e9.ico
 purpose: []
