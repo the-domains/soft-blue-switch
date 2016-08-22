@@ -1,7 +1,7 @@
 name: Soft Blue Switch
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1dfd5e6-8cd5-499b-ae3a-acfa1e4115e9.ico
-layout_spectrum: 0
+layout_spectrum: 0.24854
 typography_spectrum: 0.9159646476618946
 cta:
   domain: null
